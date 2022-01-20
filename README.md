@@ -1,1 +1,1 @@
-# egghead-rust-digital-garden
+# egghead-rust-cli-digital-garden
