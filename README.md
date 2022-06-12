@@ -2,6 +2,22 @@
 
 A CLI tool for the creation and maintainence of Digital Gardens.
 
+## Developer
+
+### Run
+
+```shell
+cargo watch -x check -x test
+```
+
+### Setting the garden path
+
+```shell
+GARDEN_PATH=~/DigitalGarden/ write
+garden -p ~/DigitalGarden/ write
+garden --garden_path ~/DigitalGarden write
+```
+
 ## Commands
 
 ### write
